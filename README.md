@@ -1,4 +1,6 @@
 # w-purey
+# npm i w-purey
+
 # const query = require('w-purey')
 
 # http:// www.xxx.com
